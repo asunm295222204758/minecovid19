@@ -1,0 +1,25 @@
+{
+  "name": "covid-19-prediction",
+  "version": "1.0.0",
+  "description": "COVID-19 Prediction System with Symptoms Analysis",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "covid-19",
+    "prediction",
+    "medical",
+    "symptoms",
+    "analysis"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
